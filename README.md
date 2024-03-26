@@ -39,7 +39,7 @@ Studio Code, etc.).
 
 ### Configuração
 Clone o repositório:
-git clone [url-do-repositorio]
+- git clone https://github.com/elias-jpg/Sistema-de-Gestao-de-Estoque-para-Pequena-Empresa-README-no-GitHub.git.
 
 ### Uso
 Este sistema fornece uma interface de linha de comando para gerenciar produtos,
